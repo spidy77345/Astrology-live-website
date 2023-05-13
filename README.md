@@ -1,1 +1,1 @@
-# Astrology-live-website
+# Astrology-website
